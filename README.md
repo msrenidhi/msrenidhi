@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @msrenidhi
+- 👋 Hi,<h2> I’m msrenidhi
 - 🌱 I’m currently learning github
 
 <!---
